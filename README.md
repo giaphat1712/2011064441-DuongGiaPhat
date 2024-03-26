@@ -1,3 +1,6 @@
 
-##THÔNG TIN 
-* 2011064441 - Dương Gia Phát
+MÔN HỌC: CÔNG CỤ VÀ MÔI TRƯỜNG PHÁT TRIỂN PHẦN MỀM
+Sinh viên thực hiện: Dương Gia Phát
+MSSV: 2011064441
+
+  
